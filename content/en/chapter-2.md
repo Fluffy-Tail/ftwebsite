@@ -1,7 +1,7 @@
 ---
 date: 2017-04-10T11:00:59-04:00
 description: "Pierre Gringoire"
-featured_image: "/images/sun.png"
+featured_image: "/images/Sun.png"
 tags: []
 title: "Game II: Pierre Gringoire"
 ---
