@@ -30,7 +30,7 @@ enableRobotsTXT = true
   text_color = "bg-#FFFF00"
   author = ""
   favicon = "favicon.ico"
-  site_logo = "original.png" 
+  site_logo = "Original.png" 
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-gold"
