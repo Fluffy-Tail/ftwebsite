@@ -5,7 +5,7 @@ other = "Other"
 other = "Go Top"
 
 [recentTitle]
-other = "About {{.Title }}"
+other = "About FluffyTail Studio"
 
 [readMore]
 other = "read more"

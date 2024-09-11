@@ -5,7 +5,7 @@ other = "더 알아보기"
 other = "{{.Title }}"
 
 [recentTitle]
-other = "About {{.Title }}"
+other = "About FluffyTail Studio"
 
 [readMore]
 other = "더 보기"
