@@ -14,3 +14,19 @@
 .flex-item:nth-child(even) {
   order: 2;
 }
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.slide-in {
+  opacity: 0;
+  animation: slideIn 1s ease-out forwards;
+}

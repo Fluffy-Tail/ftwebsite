@@ -1,8 +1,8 @@
 [more]
-other = "Other"
+other = "More"
 
 [allTitle]
-other = "Go Top"
+other = "{{.Title }}"
 
 [recentTitle]
 other = "About FluffyTail Studio"
